@@ -5,7 +5,7 @@ Files Included:
 
 * `Amazon_Sales_Dashboard.pbix` – Power BI file
 * `sales_data.csv` – Cleaned dataset used for dashboard
-* `dashboard_preview.png` – Dashboard snapshot
+* `dashboard.png` – Dashboard snapshot
 
 Dashboard Highlights:
 
